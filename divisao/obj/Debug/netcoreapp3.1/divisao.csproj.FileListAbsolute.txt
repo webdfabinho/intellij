@@ -1,0 +1,13 @@
+C:\DIO\divisao\bin\Debug\netcoreapp3.1\divisao.exe
+C:\DIO\divisao\bin\Debug\netcoreapp3.1\divisao.deps.json
+C:\DIO\divisao\bin\Debug\netcoreapp3.1\divisao.runtimeconfig.json
+C:\DIO\divisao\bin\Debug\netcoreapp3.1\divisao.runtimeconfig.dev.json
+C:\DIO\divisao\bin\Debug\netcoreapp3.1\divisao.dll
+C:\DIO\divisao\bin\Debug\netcoreapp3.1\divisao.pdb
+C:\DIO\divisao\obj\Debug\netcoreapp3.1\divisao.csprojAssemblyReference.cache
+C:\DIO\divisao\obj\Debug\netcoreapp3.1\divisao.AssemblyInfoInputs.cache
+C:\DIO\divisao\obj\Debug\netcoreapp3.1\divisao.AssemblyInfo.cs
+C:\DIO\divisao\obj\Debug\netcoreapp3.1\divisao.csproj.CoreCompileInputs.cache
+C:\DIO\divisao\obj\Debug\netcoreapp3.1\divisao.dll
+C:\DIO\divisao\obj\Debug\netcoreapp3.1\divisao.pdb
+C:\DIO\divisao\obj\Debug\netcoreapp3.1\divisao.genruntimeconfig.cache
